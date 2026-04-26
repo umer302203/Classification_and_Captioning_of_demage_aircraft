@@ -16,8 +16,8 @@ def load_classification_model():
     Returns:
         tf.keras.Model: The loaded classification model.
     """
-    # Hugging Face Hub repository details (replace with your actual repository)
-    repo_id = "YourHuggingFaceUsername/YourModelRepoName"
+    
+    repo_id = "rana789r/aircraft-damage-classifier"
     filename = "aircraft_damage_classifier.keras"
     
     # Download the model file from Hugging Face Hub

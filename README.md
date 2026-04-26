@@ -1,7 +1,7 @@
 # AI-Powered Aircraft Damage Analysis System
 
 ## Live Demo
-[Link to Hugging Face Spac](https://huggingface.co/spaces/rana789r/aircraft-damage-app)
+[Link to Hugging Face Space](https://huggingface.co/spaces/rana789r/aircraft-damage-app)
 
 ## Overview
 This is a production-grade web application that integrates two advanced AI models to perform multi-faceted analysis of aircraft damage images. The system combines a fine-tuned VGG16-based Keras model for discriminative tasks with the Salesforce BLIP model for generative tasks. Users can upload an image of aircraft damage, and the system will automatically classify the damage type, generate a descriptive caption, and provide a detailed summary—all powered by state-of-the-art deep learning models.

@@ -48,7 +48,7 @@ This is a production-grade web application that integrates two advanced AI model
 
 4. **Configure Model Repository**
    - Open `model_handler.py`
-   - Replace `YourHuggingFaceUsername/YourModelRepoName` with your actual Hugging Face repository ID
+   -repo_id = "rana789r/aircraft-damage-classifier"
    - Ensure your fine-tuned classification model is named `aircraft_damage_classifier.keras`
 
 5. **Run the Application**
@@ -70,7 +70,7 @@ This is a production-grade web application that integrates two advanced AI model
 ├── image_processor.py        # Image preprocessing utilities
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
-└── /models/                  # Directory for storing serialized models
+
 ```
 
 ### Module Descriptions
